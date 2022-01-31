@@ -10,7 +10,7 @@ python = "^3.10"
 Django = "^4.0.1"
 
 [tool.poetry.dev-dependencies]
-black = "^21.12b0"
+black = "^22.1"
 flake8 = "^4.0.1"
 bandit = "^1.7.2"
 isort = "^5.10.1"
