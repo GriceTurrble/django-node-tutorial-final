@@ -10,7 +10,7 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "08:00"
+      time: "06:00"
       timezone: "US/Eastern"
 
   # Node dependencies
@@ -18,5 +18,5 @@ updates:
     directory: "/js_toolchain"
     schedule:
       interval: "daily"
-      time: "08:00"
+      time: "06:00"
       timezone: "US/Eastern"
