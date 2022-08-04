@@ -11,7 +11,7 @@ Django = "~=4.0.6"
 
 [tool.poetry.dev-dependencies]
 black = "~=22.6.0"
-flake8 = "~=5.0.3"
+flake8 = "~=5.0.4"
 bandit = "~=1.7.4"
 isort = "~=5.10.1"
 
