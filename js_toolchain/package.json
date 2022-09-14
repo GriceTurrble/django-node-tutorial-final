@@ -16,7 +16,7 @@
   "author": "Galen Rice",
   "license": "MIT",
   "devDependencies": {
-    "autoprefixer": "^10.4.9",
+    "autoprefixer": "^10.4.10",
     "copy-files-from-to": "^3.2.2",
     "htmx.org": "^1.8.0",
     "postcss": "^8.4.16",
