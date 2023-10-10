@@ -2,7 +2,11 @@
 
 Final version of a tutorial project demonstrating a basic Django site that integrates a Node/NPM toolchain and TailwindCSS within Django templates.
 
-The full tutorial can be found [here](https://galenrice.com/2022/01/20/node-dev-for-the-django-dev.html).
+~~The full tutorial can be found [here](https://galenrice.com/2022/01/20/node-dev-for-the-django-dev.html).~~
+
+## ⚠️ Archived
+
+The project is archived and will no longer be maintained.
 
 ## Installation
 
